@@ -41,8 +41,10 @@ De nos jours, nous voyons bel et bien comment les différents équipements sont 
 
 ## 🏠 DEMO: INTERFACE D'ACCEUIL ET DASHBOARD AWX 
 
+Pour se connecter à l'interface d'acceuil AWX et voir son dashboard veuillez cliquer sur le lien ci-dessous:
 
-![interface d'acceuil et dashboard AWX](Demo/connexion%20à%20awx%20.mp4)
+[![Interface d’accueil et dashboard AWX](Images/wec.PNG)](Demo/connexion-à-awx.mp4)
+
 
 ---
 
