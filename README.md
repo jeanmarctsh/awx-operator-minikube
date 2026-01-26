@@ -1,13 +1,47 @@
 # 🚀 DEPLOIEMENT AWX-OPERATOR AVEC MINIKUBE
 
+## Prise en main et utilisation de l'outil AWX-OPERATOR
+---
 __📌 Pour voir le projet complet, veuillez selectionner la branche awx__
 
-## BRIEFING
+## 📌 BUT
 
-Avoir une vision complète et détaillée d'un système informatique requiert une certaine comphrension des outils à utiliser.
-Raison pour laquelle il est nécessaire d'utiliser les outils qui permettent l'optimisaton et la résolution de différents problèmes au sein d'un système informatique.
-Dans le cadre de ce projet, nous allons utiliser l'outil open source AWX-OPERATOR.
+Permettre le déploiement AWX-OPERATOR à l'aide de Kubernetes afin de réduire les tâches manuelles, d'assurer la sécurité de diffférents paquets linux, images, etc...
+et surtout de faire une gestion centralisée d'un système informatique afin d'exécuter sereinement différents playbook et autres mises à jour
 
+---
+## 📌 OBJECTIFS
+
+Contôler, planifier, gérer les utilisateurs, intégrer les différents outils(gitea, git, etc...) ainsi que les différents machines(clientes ou serveurs), 
+automatiser les différentes mise à jour au sein d'une infrasructure informatique afin d'avoir une vision globale et détaillée de cette dernière.
+
+---
+
+## 📝INSTALLATION
+
+Pour installer AWX-OPERATOR veuillez suivre le guide ci-dessous:
+
+[AWX-OPERATOR DOCUMENT D'INSTALLATION](https://github.com/jeanmarctsh/awx-operator-minikube/tree/awx/DAT)
+
+
+## 🔧 Prérequis
+
+- OS : Ubuntu 22.04 LTS
+- Disque : SSD 40 ou 60 GO
+- RAM : 12GO
+- HYPERVISEUR DE TYPE 1 ou 2
+
+---
+
+## 🛠️ OUTILS UTILISES
+
+- OS: LINUX.
+- KUBERNETES.
+- VS_CODE.
+- SSH.
+- HYPERVISEUR type 2 : vmware_workstation.
+- GITHUB
+- DOCKER.
 ---
 
 ## 📫 CONTACT
