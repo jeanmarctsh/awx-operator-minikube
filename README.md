@@ -6,8 +6,7 @@ __📌 Pour voir le projet complet, veuillez selectionner la branche awx__
 
 ## 📌 BUT
 
-Permettre le déploiement AWX-OPERATOR à l'aide de Kubernetes afin de réduire les tâches manuelles, d'assurer la sécurité de diffférents paquets linux, images, etc...
-et surtout de faire une gestion centralisée d'un système informatique afin d'exécuter sereinement différents playbook et autres mises à jour
+Permettre le déploiement AWX-OPERATOR via Kubernetes afin de réduire les tâches manuelles, renforcer la sécurité et assurer une gestion centralisée des playbooks et mises à jour système.
 
 ---
 ## 📌 OBJECTIFS
